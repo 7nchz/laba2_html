@@ -1,0 +1,805 @@
+body { 
+    max-width: 1300px; 
+    max-height: 500px;
+}
+
+head {
+    width: 1300px;
+    height: 500px;
+}
+
+#rectangle{
+    width:110%;
+    height:60px;
+    background:rgb(2, 2, 78);
+    position: relative;
+
+}
+
+.adress {
+	position	: absolute;
+	top		: 11px;
+	left		: 130px;
+	width		: 100%;
+    color:rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+.nomer {
+	position	: absolute;
+	top		: 11px;
+	left		: 485px;
+	width		: 100%;
+    color:rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+.time {
+	position	: absolute;
+	top		: 11px;
+	left		: 720px;
+	width		: 100%;
+    color:rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+#rectangle1{
+    width:110%;
+    height:120px;
+    background:rgb(255, 255, 255);
+    position: relative;
+}
+
+.home {
+    position	: absolute;
+	top		: 100px;
+	left		: 700px;
+	width		: 100%;
+    color:rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: black;
+}
+
+.img {
+    position	: absolute;
+    top: 52px;
+    left: 110px;
+}
+
+.About {
+    position	: absolute;
+	top		: 100px;
+	left		: 800px;
+	width		: 100%;
+    color:rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: black;
+}
+
+.Services {
+    position	: absolute;
+	top		: 100px;
+	left		: 900px;
+	width		: 100%;
+    color:rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: black;
+}
+
+.News {
+    position	: absolute;
+	top		: 100px;
+	left		: 1000px;
+	width		: 100%;
+    color:rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: black;
+}
+
+.Projects {
+    position	: absolute;
+	top		: 100px;
+	left		: 1100px;
+	width		: 100%;
+    color:rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: black;
+}
+
+.Contact {
+    position	: absolute;
+	top		: 100px;
+	left		: 1200px;
+	width		: 100%;
+    color:rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: black;
+}
+
+.ruki {
+    position: relative;
+}
+
+.Welcome {
+    position: absolute ;
+    top: 250px;
+    left: 33.5%;
+    font-size: 60px;
+    font-family: Brush Script MT, Brush Script Std, cursives;
+}
+
+#rectangle2{
+    width:10%;
+    height:40px;
+    background:rgb(22, 139, 61);
+    position: relative;
+    top: -800px;
+    left: 33%;
+    border-radius: 8px;
+}
+
+#rectangle3{
+    width:10%;
+    height:40px;
+    background:rgb(22, 139, 61);
+    position: relative;
+    top: -840px;
+    left: 51.5%;
+    border-radius: 8px;
+}
+
+.project {
+    position: absolute;
+    font-size: 18px;
+    top: 418px;
+    left: 34%;
+    color: white;
+}
+
+.learn {
+    position: absolute;
+    font-size: 18px;
+    top: 418px;
+    left: 52%;
+    color: rgb(255, 255, 255);
+}
+
+.ourserv {
+    font-size: 50px;
+    position: absolute;
+    left: 37%;
+    top: 1100px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.serv1 {
+    position: absolute;
+    left: 100px;
+}
+
+.serv2 {
+    position: absolute;
+    left: 550px;
+}
+
+.serv3 {
+    position: absolute;
+    left: 950px;
+}
+
+#rectangle4{
+    width:338px;
+    height:100px;
+    background:rgb(2, 2, 78);
+    position: relative;
+    top: 205px;
+    left: 92px;
+}
+
+#rectangle5{
+    width:285px;
+    height:100px;
+    background:rgb(2, 2, 78);
+    position: relative;
+    top: 105px;
+    left: 542px;
+}
+
+#rectangle6{
+    width:286px;
+    height:100px;
+    background:rgb(2, 2, 78);
+    position: relative;
+    top: 5px;
+    left: 942px;
+}
+
+.Managment {
+    position: absolute;
+    top: 1525px;
+    left: 130px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Business {
+    position: absolute;
+    top: 1525px;
+    left: 570px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Financial {
+    position: absolute;
+    top: 1525px;
+    left: 975px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#rectangle7 {
+    position: relative;
+    width: 1400px;
+    height:600px;
+    background:rgb(238, 238, 238);
+    right: 30px;
+    top: 200px;
+}
+
+.why {
+    font-size: 50px;
+    top: 1900px;
+    color:rgb(0, 0, 0);
+    position: absolute;
+    left: 36.5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.riska {
+    font-size: 90px;
+    top: 1870px;
+    color:rgb(0, 0, 0);
+    position: absolute;
+    left: 43%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.g1{
+    position:absolute;
+    top: 2100px;
+    left: 15%;
+}
+
+.g2 {
+    position:absolute;
+    top: 2100px;
+    left: 45%;
+}
+
+.g3 {
+    position:absolute;
+    top: 2100px;
+    left: 75%;
+}
+
+#rectangle8 {
+    position: relative;
+    width: 1400px;
+    height:300px;
+    background:rgb(2, 2, 78);
+    right: 30px;
+    top: 200px;
+}
+
+.request {
+    position: absolute;
+    font-size: 35px;
+    color: white;
+    top:2480px;
+    left: 100px;
+}
+
+.riska2 {
+    position: absolute;
+    font-size: 35px;
+    color: white;
+    top:2520px;
+    left: 100px;
+}
+
+.leave {
+    position: absolute;
+    font-size: 15px;
+    color: white;
+    top:2600px;
+    left: 100px;
+}
+
+.Name {
+    position: absolute;
+    top: 2510px;
+    left: 500px;
+    
+}
+
+.subject {
+    position: absolute;
+    top: 2580px;
+    left: 500px;
+}
+
+#rectangle9 {
+    position: relative;
+    width: 1400px;
+    height:550px;
+    background:rgb(238, 238, 238);
+    right: 30px;
+    top: 200px;
+}
+
+.web1 {
+    position:absolute;
+    top: 2950px;
+    left: 50px;
+}
+
+.web2 {
+    position: absolute;
+    top: 2950px;
+    left: 520px;
+}
+
+.web3 {
+    position: absolute;
+    top: 2950px;
+    left: 900px;
+}
+
+#rectangle-web1 {
+    position: relative;
+    width: 382px;
+    height:30px;
+    background:rgb(2, 2, 78);
+    left: 42px;
+    top: 64px;
+    opacity: .9;
+}
+
+.system {
+    position: absolute;
+    top: 3127px;
+    left: 60px;
+    font-size: 15px;
+    color:rgb(255, 255, 255);
+}
+
+#rectangle10 {
+    position: relative;
+    width: 300px;
+    height:205px;
+    background:rgb(2, 2, 78);
+    left: 512px;
+    top: -140px;
+    opacity: .6;
+}
+
+.skill {
+    position: absolute;
+    top: 2950px;
+    color: rgb(255, 255, 255);
+    font-size:23px;
+    left: 530px;
+}
+
+.Read {
+    position: absolute;
+    top: 3110px;
+    color: white;
+    left: 530px;
+}
+
+#rectangle-web3 {
+    position: relative;
+    width: 400px;
+    height:30px;
+    background:rgb(2, 2, 78);
+    left: 893px;
+    top: -171px;
+    opacity: .9;
+}
+
+.bis {
+    position: absolute;
+    top: 3125px;
+    color: rgb(255, 255, 255);
+    left: 910px;
+}
+
+#rectangle12 { 
+    position: relative;
+    width: 110%;
+    height: 300px;
+    background:rgb(2, 2, 78);
+    top:-100px;
+    opacity: .9;
+}
+
+.t1 {
+    position: relative;
+    color: rgb(255, 255, 255);
+    left: 200px;
+    font-size: 70px;
+    bottom: 370px;
+}
+
+.t2 {
+    position: relative;
+    color: rgb(255, 255, 255);
+    left: 590px;
+    font-size: 70px;
+    bottom: 520px;
+}
+
+.t3 {
+    position: relative;
+    color: rgb(255, 255, 255);
+    left: 890px;
+    font-size: 70px;
+    bottom: 665px;
+}
+
+.r1 {
+    position: relative;
+    color: white;
+    bottom: 730px;
+    left: 210px
+}
+
+.r2 {
+    position: relative;
+    color: white;
+    bottom: 764px;
+    left: 600px;
+}
+
+.r3 {
+    position: relative;
+    color: white;
+    bottom: 798px;
+    left: 880px;
+}
+
+.Latest {
+    position: relative;
+    color: black;
+    left: 480px;
+    font-size: 50px;
+    bottom: 620px;
+    font-weight: bolder;
+}
+
+.riska3 {
+    position: relative;
+    color: black;
+    left: 630px;
+    font-size: 50px;
+    bottom: 700px;
+}
+
+.sot1 {
+    position: relative;
+    bottom: 500px;
+    left: 50px;
+}
+
+.sot2 {
+    position: relative;
+    bottom: 720px;
+    left: 490px;
+}
+
+.sot3 {
+    position: relative;;
+    bottom: 940px;
+    left:920px;
+}
+
+#rectangle13 {
+    position: relative;
+    width: 24.4%;
+    height: 200px;
+    background:rgb(1, 103, 110);
+    bottom: 960px;
+    left: 50px;
+}
+
+.glav1 {
+    position: relative;
+    bottom: 1150px;
+    color: rgb(255, 255, 255);
+    left: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.data1 {
+    position: relative;
+    left: 60px;
+    bottom: 1150px;
+    color: white;
+    font-weight: bold;
+}
+
+.y1 {
+    position: relative;
+    bottom: 1130px;
+    color: white;
+    left: 60px;
+    font-weight: lighter;
+}
+
+#rectangle14 {
+    position: relative;
+    width: 23.2%;
+    height: 200px;
+    background:rgb(1, 103, 110);
+    bottom: 1336px;
+    left: 490px;
+}
+
+#rectangle15 {
+    position: relative;
+    width: 23.2%;
+    height: 200px;
+    background:rgb(1, 103, 110);
+    bottom: 1536px;
+    left: 920px;
+}
+
+.glav2 {
+    font-weight: bold;
+    color: white;
+    position: relative;
+    bottom: 1725px;
+    left: 500px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.data2 {
+    position: relative;
+    left: 500px;
+    bottom: 1725px;
+    color: White;
+    font-weight: bold;
+}
+
+.y2 {
+    position: relative;
+    color: white;
+    bottom: 1700px;
+    left: 500px;
+    font-weight: lighter;
+}
+
+.glav3 {
+    position: relative;
+    color: white;
+    bottom: 1830px;
+    left: 930px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.data3 {
+    position: relative;
+    left: 930px;
+    bottom: 1825px;
+    color: white;
+    font-weight: bold;
+}
+
+.y3 {
+    position: relative;
+    color: white;
+    font-weight: lighter;
+    bottom: 1820px;
+    left: 929px;
+}
+
+#rectangle16 {
+    position: relative;
+    width: 110%;
+    background-color: rgb(216, 216, 216);
+    height: 600px;
+    bottom: 1600px;
+    right: 50px;
+}
+
+.bis {
+    position: relative;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    top: -2150px;
+    left: 530px;
+}
+
+.riska4 {
+    position: relative;
+    left: 580px;
+    top: -2200px;
+    color: black;
+    font-size: 50px;
+}
+
+.znak {
+    position: relative;
+    bottom: 2200px;
+    left: 400px;
+}
+
+.poz {
+    position: relative;
+    bottom: 2100px;
+    right: 50px;
+}
+
+#rectangle17 {
+    position: relative;
+    background-color:rgb(2, 2, 78);
+    opacity: .5;
+    width: 110%;
+    height: 500px;
+    bottom: 2620px;
+    right: 50px;
+}
+
+
+.w1 {
+    position: relative;
+    bottom: 3000px;
+    color: whitesmoke;
+    left: 600px;
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.sign {
+    bottom: 2600px;
+    position: relative;
+    left: 550px;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+}
+
+.riska5 {
+    position: relative;
+    bottom: 2670px;
+    left: 580px;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+
+.input1 {
+    display: block;
+    position: relative ;
+    bottom: 2500px;
+    left: 350px;
+    width: 30%;
+    height: 30px;
+    padding: 7px;
+    font-family: inherit;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    border: 1px solid #bdbdbd;
+    border-radius: 0.25rem;
+  }
+
+  a.button24 {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    width: 90px;
+    height: 19px;
+    border-style: solid none;
+    border-color: green;
+    background: green;
+    position: relative;
+    bottom: 2545px;
+    left: 752px
+  }
+
+  #rectangle18 {
+      position: relative;
+      width: 110%;
+      right: 50px;
+      height: 400px;
+      bottom: 2500px;
+      background-color: rgb(2, 2, 78) ;
+  }
+  
+  .company {
+      position: relative;
+      bottom: 2800px;
+      left: 200px;
+  }
+
+  .info1 {
+      position: relative;
+      color: white;
+      bottom: 2500px;
+      font-weight: bolder;
+      font-family: inherit;
+      bottom: 2790px;
+      left: 200px;
+  }
+
+  .contact2 {
+      position: relative;
+      bottom: 2990px;
+      left: 450px;
+      font-weight: bolder;
+      font-family: inherit;
+      font-size: 30px;
+      color: white;
+  }
+
+  .telegram {
+      position: relative;
+      bottom: 2900px;
+      left: 450px;
+  }
+
+  .insta {
+    position: relative;
+    bottom: 2970px;
+    left: 550px;
+  }
+
+  .facebook {
+    position: relative;
+    bottom: 3040px;
+    left: 650px;
+  }
+
+  .mail {
+      position: relative;
+      bottom: 3200px;
+      left: 450px;
+      color: white;
+      font-weight: bolder;
+      font-family: inherit;
+  }
+
+  .number {
+      position: relative;
+      bottom: 3200px;
+      left: 450px;
+      color: white;
+      font-weight: bolder;
+      font-family: inherit;
+  }
+
+  .logo2 {
+      position: relative;
+      bottom: 3390px;
+      left: 800px;
+      
+  }
